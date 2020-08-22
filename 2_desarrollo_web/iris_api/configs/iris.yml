@@ -1,0 +1,6 @@
+DisablePathCorrection: false
+EnablePathEscape: false
+FireMethodNotAllowed: true
+DisableBodyConsumptionOnUnmarshal: true
+TimeFormat: 2006-01-02 15:04:05
+Charset: UTF-8

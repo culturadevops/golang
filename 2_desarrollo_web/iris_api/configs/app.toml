@@ -1,0 +1,23 @@
+[site]
+DefaultTitle  = "我的站点"
+DefaultLayout = "shared/layout.html"
+DefaultError  = "shared/error.html"
+
+SessionCoolieName = "my_go_dht_ccjsicnsbdhcbsjcjdbzas"
+SessionExpires    = 1 # session保持时间 /小时
+
+#调试开关
+APPDebug     = true #IRIS框架调试模式
+DblogerModel = true #Gorm调试模式
+
+AdminId = 1 #系统管理 不允许删除
+
+UploadSize         = 5               #允许上传文件的大小 单位M
+UploadSuffixExists = ".jpg,.png,.jpge,.gif" #允许上传文件的后缀
+
+[server]
+domain = ""
+port   = "8888"
+
+[pagination]
+PageSize = 10

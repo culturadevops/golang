@@ -1,0 +1,11 @@
+[default]
+host = ""
+port = "3306"
+database = "cms"
+user = ""
+password = ""
+charset = "utf8"
+sql_log = true
+
+MaxIdleConns = 10 #空闲时最大的连接数
+MaxOpenConns = 100 #最大的连接数

@@ -1,0 +1,11 @@
+[default]
+name = "consultor"
+env = "prd"
+user = "admin"
+passwd = "admin123"
+version = "1.0"
+authaddr = "http://127.0.0.1:1234"
+
+charset = "utf8"
+sql_log = true
+
