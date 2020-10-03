@@ -17,11 +17,7 @@ import "fmt"
 
 /* funcion principal*/
 func main() {
-	var (
-		i int
-		b bool
-		s string
-	)
+
 	/*FORMA TRADICIONA*/
 	var variable_entera int
 	var variable_string string
@@ -32,6 +28,16 @@ func main() {
 
 	/*FORMA EN GRUPO*/
 	var x, y, z int
+	var (
+		i int
+		b bool
+		s string
+	)
+
+	x1, y2, z3 := 1, 2, 3
+	fmt.Println(x1)
+	fmt.Println(y2)
+	fmt.Println(z3)
 	i = 1
 	b = true
 	s = "un texto cualquiera"

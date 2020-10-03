@@ -1,11 +1,9 @@
 package middlewares
 
 import (
-	"net/http"
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 )
 
@@ -57,7 +55,7 @@ func (this *JwtCustomClaims) signedClaim() (string, error) {
 }
 
 //example for login controller use in a controller for validate credencial
-func LoginController(c echo.Context) error {
+/*func LoginController(c echo.Context) error {
 	username := c.FormValue("username")
 	password := c.FormValue("password")
 
@@ -76,3 +74,4 @@ func LoginController(c echo.Context) error {
 		"token": t,
 	})
 }
+*/

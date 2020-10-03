@@ -15,7 +15,7 @@ type mystruct struct {
 	segundato string
 }
 
-var miarrayint [6]int
+var miarrayint []int
 
 var miarraystring [6]string
 

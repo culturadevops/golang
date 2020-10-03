@@ -12,6 +12,7 @@ import (
 )
 
 func main() {
+
 	var rutaAbuscar string
 	rutaAbuscar = "main.g1o"
 
