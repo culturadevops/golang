@@ -20,7 +20,7 @@ https://github.com/culturadevops/golang/tree/master/5_avanzado/
 
 #golang #awssns #aws #sdkaws #sdkgolang #code #gitcode #awsprincipiante #smsnotification #pushnotifications #go&aws
 
-## recursos que pueden serte util
+## recursos que pueden ser util
 
 Quieres saber mas de devops te dejo dos libros: 
 libro 1
