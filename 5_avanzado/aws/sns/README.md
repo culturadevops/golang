@@ -1,9 +1,9 @@
 # Como publicar en AWS SNS con el SDK de Golang
 
 
-[video explicativo](https://youtu.be/DrtuGgerKxA) 
 
-![aws_sns_y_golang](https://github.com/culturadevops/golang/blob/master/5_avanzado/aws/sns/golang_aws_sns.png)
+[![video awssns golang](https://github.com/culturadevops/golang/blob/master/5_avanzado/aws/sns/golang_aws_sns.png)](https://youtu.be/DrtuGgerKxA)
+
 
 ## Que hay en el video
 En el video doy tips importantes si deseas usar el SDK de go para manipular servicios de aws en especial aws sns,
