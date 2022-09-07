@@ -3,7 +3,7 @@
 
 [video explicativo](https://youtu.be/DrtuGgerKxA) 
 
-![aws_sns_y_golang](https://github.com/culturadevops/golang/tree/master/5_avanzado/aws/sns/golang_aws_sns.png)
+![aws_sns_y_golang](https://github.com/culturadevops/golang/blob/master/5_avanzado/aws/sns/golang_aws_sns.png)
 
 ## Que hay en el video
 En el video doy tips importantes si deseas usar el SDK de go para manipular servicios de aws en especial aws sns,
