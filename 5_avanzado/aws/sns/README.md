@@ -23,7 +23,9 @@ https://github.com/culturadevops/golang/tree/master/5_avanzado/
 ## recursos que pueden serte util
 
 Quieres saber mas de devops te dejo dos libros: 
+libro 1
 [Herramientas de devops](https://www.amazon.com/-/es/Jaivic-Villegas-ebook/dp/B081X3HYLX) 
+libro 2
 [El futuro es Devops](https://www.amazon.com/-/es/Jaivic-Villegas-ebook/dp/B087MZX1SZ) 
 
 [canal Cultura devops](https://www.youtube.com/channel/UCfJ67eVA7DkKbbIF5ceJDMA) 
