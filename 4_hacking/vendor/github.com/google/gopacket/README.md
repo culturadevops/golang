@@ -10,3 +10,13 @@ Minimum Go version required is 1.5 except for pcapgo/EthernetHandle, afpacket, a
 
 Originally forked from the gopcap project written by Andreas
 Krennmair <ak@synflood.at> (http://github.com/akrennmair/gopcap).
+
+
+
+# Mis Libros:
+
+[![libros futuro es devops ](https://github.com/culturadevops/recursos/blob/master/portada-futuro-es-devops.png)](https://amzn.to/3S8AGG9) [![libros herramientas devops](https://github.com/culturadevops/recursos/blob/master/portada-herramientasdevops.png)](https://amzn.to/3ga1c4E)
+
+# Mi canal de cultura Devops
+
+[![canal de youtube sobre devops ](https://github.com/culturadevops/recursos/blob/master/logo-culturadevops.png)](https://www.youtube.com/channel/UCfJ67eVA7DkKbbIF5ceJDMA?sub_confirmation=1) 

@@ -29,3 +29,13 @@ libro 2
 [El futuro es Devops](https://www.amazon.com/-/es/Jaivic-Villegas-ebook/dp/B087MZX1SZ) 
 
 [canal Cultura devops](https://www.youtube.com/channel/UCfJ67eVA7DkKbbIF5ceJDMA) 
+
+
+
+# Mis Libros:
+
+[![libros futuro es devops ](https://github.com/culturadevops/recursos/blob/master/portada-futuro-es-devops.png)](https://amzn.to/3S8AGG9) [![libros herramientas devops](https://github.com/culturadevops/recursos/blob/master/portada-herramientasdevops.png)](https://amzn.to/3ga1c4E)
+
+# Mi canal de cultura Devops
+
+[![canal de youtube sobre devops ](https://github.com/culturadevops/recursos/blob/master/logo-culturadevops.png)](https://www.youtube.com/channel/UCfJ67eVA7DkKbbIF5ceJDMA?sub_confirmation=1) 
